@@ -1,4 +1,2 @@
-animal=["lion","dog"]
-x,y=animal
+x='mzmcx'
 print(x)
-print(y)
