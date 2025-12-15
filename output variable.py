@@ -11,6 +11,16 @@
 #print(x , y , z)
 
 
+#x = 5
+#y = 10
+#print(x + y)
+
+
+#x = 5
+#y = "John"
+#print(x + y)
+# In the print() function, when you try to combine a string and a number with the + operator, Python will give you an error:
+
 x = 5
-y = 10
-print(x + y)
+y = "John"
+print(x , y)
