@@ -19,3 +19,7 @@ print(b[2:5])
 #slice of char
 b = "Hello, World!"
 print(b[:5])
+
+#negative indexing
+b = "Hello, World!"
+print(b[-5:-2])
