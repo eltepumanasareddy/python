@@ -8,5 +8,14 @@
 #x="hello world"
 #print(len(x))
 
-txt = "The best things in life are free!"
-print("free" in txt)
+#txt = "The best things in life are free!"
+#print("free" in txt)
+
+
+#slicing
+b = "Hello, World!"
+print(b[2:5])
+
+#slice of char
+b = "Hello, World!"
+print(b[:5])
