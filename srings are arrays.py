@@ -42,3 +42,18 @@ print(a.replace("H", "M"))
 a = "Hello, World!"
 print(a.split(","))
 print(b)
+
+#string concatenation
+a = "Hello"
+b = "World"
+c = a + b
+print(c)
+
+#To add a space between them, add a " ":
+a = "Hello"
+b= "world"
+c = a + "  " + b
+print(c)
+
+
+
