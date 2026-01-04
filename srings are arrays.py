@@ -55,5 +55,11 @@ b= "world"
 c = a + "  " + b
 print(c)
 
+#f-string
+#The f allows you to insert variables or expressions directly into a string using {}
+age=36
+txt = f"my name is manasa, iam {age}"
+print(txt)
+
 
 
