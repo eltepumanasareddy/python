@@ -61,5 +61,19 @@ age=36
 txt = f"my name is manasa, iam {age}"
 print(txt)
 
+#placeholder for the price variable
+price=59
+txt = f"the price is {price} dollars"
+print(txt)
+
+#2 decimal
+price=45
+txt =f"the price is {price:.2f} dollars"
+print(txt)
+
+#math operation using placeholder
+txt = f"the price is {20 * 40} dollars"
+print(txt)
+
 
 
