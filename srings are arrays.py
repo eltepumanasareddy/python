@@ -75,5 +75,47 @@ print(txt)
 txt = f"the price is {20 * 40} dollars"
 print(txt)
 
+#To fix this problem, use the escape character \":
+txt = "We are the so-called\"Vikings\" from the north."
+print(txt)
+#escape charecters
+#single quote
+txt= 'it\'s alright.'
+print(txt)
+
+#backslash
+txt = "this will insert one \ (backslash)."
+print(txt)
+
+#new line
+txt="hello\nworld!"
+print(txt)
+
+#carriage return
+txt="hello\rworld!"
+print(txt)
+
+#tab
+txt="hello\tworld!"
+print(txt)
+
+#backspace
+txt="hello\bworld!"
+print(txt)
+
+#form feed
+txt="hello\fworld"
+print(txt)
+#octal value
+#A backslash followed by three integers will result in a octal value:
+txt = "\110\145\154\154\157"
+print(txt) 
+
+#hex value
+txt = "\x48\x65\x6c\x6c\x6f"
+print(txt) 
+
+
+
 
 
