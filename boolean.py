@@ -16,3 +16,11 @@ else:
 print(bool("hello"))
 print(bool(16))
 
+#evaluate two variables:
+x="manasa"
+y=16
+print(bool(x))
+print(bool(y))
+
+
+
