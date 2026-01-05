@@ -5,26 +5,35 @@
 #print(4==4)
 
 #if statement
-a=200
-b=199
-if b>a:
-    print("b is greater than a")
-else:
-    print("b is not greater than a")
+#a=200
+#b=199
+#if b>a:
+   # print("b is greater than a")
+#else:
+ #   print("b is not greater than a")
 
 #evaluate a string and a number:
-print(bool("hello"))
-print(bool(16))
+#print(bool("hello"))
+#print(bool(16))
 
 #evaluate two variables:
-x="manasa"
-y=16
-print(bool(x))
-print(bool(y))
+#x="manasa"
+#y=16
+#print(bool(x))
+#print(bool(y))
 
 # values are true
-bool("dhgjs")
-bool(12345)
-bool(["apple","banana","cherry"])
+#bool("dhgjs")
+#bool(12345)
+#bool(["apple","banana","cherry"])
+
+# flase statement
+bool(False)
+bool(None)
+bool(0)
+bool("")
+bool(())
+bool([])
+bool({})
 
 
