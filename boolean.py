@@ -22,5 +22,9 @@ y=16
 print(bool(x))
 print(bool(y))
 
+# values are true
+bool("dhgjs")
+bool(12345)
+bool(["apple","banana","cherry"])
 
 
