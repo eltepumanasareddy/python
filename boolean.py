@@ -36,4 +36,10 @@ bool(())
 bool([])
 bool({})
 
+def myFunction() :
+  return True
+
+print(myFunction())
+
+
 
