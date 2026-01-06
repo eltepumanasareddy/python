@@ -29,17 +29,30 @@
 
 # flase statement
 bool(False)
-bool(None)
 bool(0)
 bool("")
 bool(())
 bool([])
 bool({})
 
+def Myfunction() :
+  return True
+
+print(Myfunction())
+
+#return sends a value back to the caller
+ #Print "YES!" if the function returns True, otherwise print "NO!":
 def myFunction() :
   return True
 
-print(myFunction())
+ if myFunction():
+  print("YES!")
+ else:
+  print("NO!")
+  #isinstance(.)
+ x = 200
+print=(isinstance(x,int)) #(object,type)
 
-
-
+ #Check if "Hello" is one of the types described in the type parameter:
+x= isinstance("hello",(float,int,str,list,dict,tuple))
+print(x)
