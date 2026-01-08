@@ -52,8 +52,13 @@ x**=6#(5*5)
 print(x)
 
 #8
-x=5
-x&=4
+x=5           #Convert numbers to binary
+x&=3          #5 → 101
+print(x)      #3 →011
+
+#9
+x = 5#binary  0101
+x |= 3#binary 0011 
 print(x)
 
 
