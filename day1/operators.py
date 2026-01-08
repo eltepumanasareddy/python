@@ -61,6 +61,10 @@ x = 5#binary  0101
 x |= 3#binary 0011 
 print(x)
 
+#10
+x = 5
+x ^= 3
+print(x)
 
 
 
