@@ -80,7 +80,7 @@ print(x)
 print(x := 3)#:=assign and use a value in one line
 
 #14
-numbers=[1,2,,3,4,5]
+numbers = [1,2,3,4,5]
 count = len(numbers)
 if count > 3:
     print(f"List has{count} elements")
