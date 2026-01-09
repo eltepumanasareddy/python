@@ -73,8 +73,12 @@ print(x)#5 << 3 = 5 × 2³ = 5 × 8 = 40
 
 #12
 x=5
-x>>=3
+x>>=3#shift bits right by 3 positions
 print(x)
+
+#13
+print(x := 3)#assign and use a value in one line
+
 
 
 
