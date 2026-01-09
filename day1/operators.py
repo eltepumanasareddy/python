@@ -77,8 +77,15 @@ x>>=3#shift bits right by 3 positions
 print(x)
 
 #13
-print(x := 3)#assign and use a value in one line
+print(x := 3)#:=assign and use a value in one line
 
+#14
+numbers=[1,2,,3,4,5]
+count = len(numbers)
+if count > 3:
+    print(f"List has{count} elements")
+if (count := len(numbers)) > 3:
+    print(f"List has {count} elements")
 
 
 
