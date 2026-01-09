@@ -66,6 +66,17 @@ x = 5
 x ^= 3
 print(x)
 
+#11
+x=5   #Left shifting by n bits multiplies the number by 2ⁿ
+x<<=3
+print(x)#5 << 3 = 5 × 2³ = 5 × 8 = 40
+
+#12
+x=5
+x>>=3
+print(x)
+
+
 
 
 
