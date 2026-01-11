@@ -11,6 +11,6 @@ print(not(x >4 and x<10))#returns False because not is used to reverse the resul
 #Test if a number is less than 5 or greater than 10:
 x = 5
 print(x < 7 or x > 15)
-
+#Reverse the result with not:
 x=5
-print(not(x>3 and x<10))
+print(not(5>3 and 5<10))
