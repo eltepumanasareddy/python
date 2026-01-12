@@ -18,5 +18,6 @@ print(x is not z)## returns False because z is the same object as x
 #2
 x=[1,2,3,4]
 y=[1,2,3,4]
-print(x is y)
-print(x == y)
+print(x is y)#is → same person
+print(x == y)#== → same clothes
+ #if two variables point to the same object             
