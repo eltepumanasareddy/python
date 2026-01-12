@@ -14,3 +14,9 @@ print(x==y)
 print(x==z)#values equal
 print(x!=y)#same value thats why true will be come
 print(x is not z)## returns False because z is the same object as x
+
+#2
+x=[1,2,3,4]
+y=[1,2,3,4]
+print(x is y)
+print(x == y)
