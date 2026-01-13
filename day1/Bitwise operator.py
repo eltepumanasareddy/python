@@ -21,3 +21,7 @@ print(6 ^ 4)
 
 #NOT
 print(~4)
+
+#x<<2
+#Shift left by pushing zeros in from the right and let the leftmost bits fall off
+print(3<<4)
