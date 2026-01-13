@@ -23,5 +23,9 @@ print(6 ^ 4)
 print(~4)
 
 #x<<2
+#Zero fill left shift
 #Shift left by pushing zeros in from the right and let the leftmost bits fall off
 print(3<<4)
+
+#Signed right shift
+print(8>>2)
