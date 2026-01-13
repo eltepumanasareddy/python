@@ -14,4 +14,4 @@ text="Hello World"
 print("W" in text)
 print("hello" in text)
 print("z" not in text)
-
+#in=Checks if a value exists in a sequence
