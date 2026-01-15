@@ -6,3 +6,5 @@ print(2 + 3 * 4)
 print(100 + ~3)
 #Bitwise left and right shifts
 print(8>>4-2)
+#Bitwise AND
+print(5&3+1)
