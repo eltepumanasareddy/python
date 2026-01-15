@@ -14,3 +14,11 @@ print(5&3+1)
 #bitwise XOR
 print(6^2+1)
 print(6|2+1)
+#==
+print(5==4+1)
+print(not 5==5)
+#AND
+print(1 or 2 and 3)
+#OR
+print(4 or 5 + 10 or 8)
+
