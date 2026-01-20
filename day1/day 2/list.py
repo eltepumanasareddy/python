@@ -13,3 +13,7 @@ list3 = [True, False, False]
 print(list1)
 print(list2)
 print(list3)
+
+#A list with strings, integers and boolean values
+list1=["abc",30,"true",20,"female"]
+print(list1)
