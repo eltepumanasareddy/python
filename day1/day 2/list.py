@@ -32,4 +32,8 @@ print(thislist[-1])#[2]
 
 thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 print(thislist[2:5])
+#This example returns the items from the beginning to, but NOT including, "kiwi":
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(thislist[:4])
+
 
