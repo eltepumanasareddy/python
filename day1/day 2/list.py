@@ -21,3 +21,11 @@ print(list1)
 #data type list
 mylist = ["apple", "banana", "cherry"]
 print(type(mylist))
+
+#Using the list() constructor to make a List
+thislist = list(("apple", "banana", "cherry"))
+print(thislist)
+
+#Print the last item of the list
+thislist=["apple","banana","cherry"]
+print(thislist[-1])
