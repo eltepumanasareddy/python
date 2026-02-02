@@ -3,7 +3,7 @@ list.append("orange")#append=always adds an element to the end of a list
 print(list)
 #1
 thislist=["apple","banana","cherry"]
-thislist.insert(3,"orange")
+thislist.insert(2,"orange")#adds an item at a specific index
 print(thislist)
 #2
 thislist= ["apple","banana","cherry"]
