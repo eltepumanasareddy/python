@@ -12,7 +12,13 @@ list.pop(1)
 print(list)
 #3
 list=["apple","banana","grapes"]
-list.pop()
+list.pop()#delete last element
 print(list)
-
-
+#4
+thislist = ["apple", "banana", "cherry"]
+del thislist
+print(thislist)
+#5
+list=["apple","banana","cherry"]
+list.clear()
+print(list)
