@@ -10,4 +10,9 @@ print(list)
 list=["apple","banana","grapes"]
 list.pop(1)
 print(list)
+#3
+list=["apple","banana","grapes"]
+list.pop()
+print(list)
+
 
