@@ -4,5 +4,7 @@ for x in thislist:#for=one at a time
  
 #1
 list=["apple","banana","cherry"]
-for i in range(len(thislist)):
+for i in range(len(thislist)):#used to store the index
  print(thislist[i])
+
+
