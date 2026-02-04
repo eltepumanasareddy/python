@@ -6,3 +6,7 @@ print(newlist)
 fruits=["apple","banana","grapes"]
 newlist=[x for x in fruits]
 print(newlist)
+
+#2
+newlist=[x for x in range(10)]
+print(newlist)
