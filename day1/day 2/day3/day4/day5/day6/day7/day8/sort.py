@@ -6,3 +6,8 @@ print(list)
 list=[20,12,35,39,45,23]
 list.sort()
 print(list)
+
+#2
+list=["orange","mango","kiwi","pineapple","banana"]
+list.sort(reverse = True)
+print(list)
