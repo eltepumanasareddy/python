@@ -19,4 +19,13 @@ print(thistuple)
 thistuple = ("cherry","banana","mango","apple")
 print(type(thistuple))
 
+#5
+thistuple=("apple","banana","cherry")
+print(thistuple[1])
+
+#negative index
+thistuplethistuple=("apple","banana","cherry")
+print(thistuple[-1])
+
+
  
