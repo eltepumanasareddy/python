@@ -27,5 +27,14 @@ print(thistuple[1])
 thistuplethistuple=("apple","banana","cherry")
 print(thistuple[-1])
 
+#6
+thistuple=("apple","banana","cherry","orange","grapes","mango")
+print(thistuple[2:5])
+#2 → start at index 2 → "cherry" (included)
+#5 → stop at index 5 → "melon" (not included)
+
+
+
+
 
  
