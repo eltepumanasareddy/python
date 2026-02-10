@@ -10,4 +10,8 @@ thistuple = ("cherry",)
 print(type(thistuple))
 thistuple = ("apple")
 print(type(thistuple))
+
+#3
+thistuple=("cherry",40,"true")
+print(thistuple)
  
