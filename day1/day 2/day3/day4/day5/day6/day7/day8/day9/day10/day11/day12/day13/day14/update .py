@@ -11,3 +11,9 @@ y=list(thislist)
 y.append("guvva")
 thistuple=tuple(y)
 print(thistuple)
+
+#1
+thistuple=("apple","banana","cherry")
+y=("mango",)
+thistuple += y
+print(thistuple)
