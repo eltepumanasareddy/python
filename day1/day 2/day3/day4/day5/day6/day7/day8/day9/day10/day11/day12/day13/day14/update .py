@@ -17,3 +17,9 @@ thistuple=("apple","banana","cherry")
 y=("mango",)
 thistuple += y
 print(thistuple)
+
+#2
+thistuple = ("apple","banana","grapes")
+y = list(thistuple)
+y.remove("banana")
+thistuple = tuple(y)
