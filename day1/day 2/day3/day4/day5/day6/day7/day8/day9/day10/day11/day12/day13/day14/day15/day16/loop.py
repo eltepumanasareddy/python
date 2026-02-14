@@ -13,3 +13,9 @@ i=0
 while i<len(thistuple):
     print(thistuple[i])
     i=i+1
+
+#3
+thistuple1=("a","b","c")
+thistuple2=(1,2,3)
+thistuple3=thistuple1+thistuple2
+print(thistuple3)
