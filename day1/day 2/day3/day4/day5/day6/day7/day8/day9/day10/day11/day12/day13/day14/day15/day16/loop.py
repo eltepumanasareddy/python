@@ -19,3 +19,8 @@ thistuple1=("a","b","c")
 thistuple2=(1,2,3)
 thistuple3=thistuple1+thistuple2
 print(thistuple3)
+
+#4
+fruits=("apple","banana","cherry")
+mytuple=fruits*2
+print(mytuple)
