@@ -22,3 +22,12 @@ print(set3)
 set1 = {"abc", 34, True, 40, "male"}
 print(set1)
 
+myset = {"apple", "banana", "cherry"}
+print(type(myset))
+
+#
+myset=set(("apple","banana","cherry"))
+print(myset)
+
+
+
