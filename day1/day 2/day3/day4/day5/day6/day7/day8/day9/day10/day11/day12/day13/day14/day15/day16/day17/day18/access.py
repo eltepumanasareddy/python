@@ -6,3 +6,7 @@ for x in thisset:
 thisset={"apple","banana","cherry"}
 print("banana" in thisset)
     
+#2
+thisset={"apple","banana","cherry"}
+print("grapes" in thisset)
+    
