@@ -25,7 +25,7 @@ print(set1)
 myset = {"apple", "banana", "cherry"}
 print(type(myset))
 
-#
+#set constructor
 myset=set(("apple","banana","cherry"))
 print(myset)
 
