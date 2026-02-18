@@ -9,7 +9,5 @@ thisset.clear()
 print(thisset)
 
 thisset = {"apple", "banana", "cherry"}
-
 thisset.discard("banana")
-
 print(thisset)
