@@ -27,3 +27,11 @@ thisdict={
     "brand": "Ford","model":"Mustang","year":2005
 }
 print(thisdict)
+
+#5
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(thisdict["brand"])
