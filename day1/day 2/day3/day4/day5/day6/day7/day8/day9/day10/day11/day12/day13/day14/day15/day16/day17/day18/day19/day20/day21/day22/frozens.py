@@ -37,11 +37,21 @@ thisdict = {
 print(thisdict["brand"])
 
 #6
-thisdict = {
+dict = {
   "brand": "Ford",
   "model": "Mustang",
   "year": 1964,
   "year": 2020
 }
-print(thisdict)
+print(dict)
+
+#7
+dict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964,
+  "year": 2020
+}
+print(type(dict))
+
 
