@@ -14,3 +14,16 @@ b=frozenset({3,4})
 c=frozenset({2,5})
 print(a.isdisjoint(b))
 print(a.isdisjoint(c))
+
+#3
+a = frozenset({1, 2})
+b = frozenset({1, 2, 3})
+print(a.issubset(b))
+print(a <= b)
+print(a < b)
+
+#4
+thisdict={
+    "brand": "Ford","model":"Mustang","year":2005
+}
+print(thisdict)
