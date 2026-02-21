@@ -54,4 +54,14 @@ dict = {
 }
 print(type(dict))
 
+#8
+dict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964,
+  "year": 2020
+}
+print(len(dict))
+
+
 
