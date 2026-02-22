@@ -13,3 +13,13 @@ thisdict = {
   "year": 1964
 }
 thisdict.update({"color": "red"})
+
+#2
+thisdict = {
+    "brand": "ford",
+    "model": "Mustang",
+    "year":2005
+}
+x=thisdict.get("model")
+print(x)
+
