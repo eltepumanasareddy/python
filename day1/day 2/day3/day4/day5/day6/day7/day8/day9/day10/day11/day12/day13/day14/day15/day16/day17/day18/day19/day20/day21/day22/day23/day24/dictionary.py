@@ -39,4 +39,12 @@ print(x)
 car["color"]="white"
 print(x)
 
+#5
+thisdict={
+    "brand":"Ford",
+    "model":"Mustang",
+    "year":2005
+}
+thisdict.pop("model")
+print(thisdict)
 
