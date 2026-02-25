@@ -33,3 +33,15 @@ thisdict =	{
 for x in thisdict.keys():
    print(x)
 
+#4
+thisdic={
+   "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+mydict=thisdict.copy()
+print(mydict)
+
+   
+
+
