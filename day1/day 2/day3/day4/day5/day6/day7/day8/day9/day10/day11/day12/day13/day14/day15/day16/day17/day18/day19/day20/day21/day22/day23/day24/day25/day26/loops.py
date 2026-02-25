@@ -42,6 +42,15 @@ thisdic={
 mydict=thisdict.copy()
 print(mydict)
 
+#5
+thisdic={
+   "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+mydict=dict(thisdict)
+print(mydict)
+
    
 
 
