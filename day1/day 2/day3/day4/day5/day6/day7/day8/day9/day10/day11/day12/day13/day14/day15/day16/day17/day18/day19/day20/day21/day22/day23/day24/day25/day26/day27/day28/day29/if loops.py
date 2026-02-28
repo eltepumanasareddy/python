@@ -27,3 +27,14 @@ if a>b:
     print("a is greater than b")
 elif a<b:
      print("a is less than b")
+
+#5
+score=75
+if score >=90:
+    print("Grade: A")
+elif score >=80:
+    print("Grade: B")
+elif score >=70:
+    print("Grade: c")
+elif score >=60:
+    print("Grade: D")
