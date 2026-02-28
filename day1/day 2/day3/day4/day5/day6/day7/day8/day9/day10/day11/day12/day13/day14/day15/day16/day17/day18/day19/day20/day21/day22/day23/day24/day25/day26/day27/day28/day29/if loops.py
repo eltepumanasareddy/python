@@ -19,3 +19,11 @@ if age >= 18:
 is_logged_in = True
 if is_logged_in:
   print("Welcome back!")
+
+#4
+a=33
+b=40
+if a>b:
+    print("a is greater than b")
+elif a<b:
+     print("a is less than b")
