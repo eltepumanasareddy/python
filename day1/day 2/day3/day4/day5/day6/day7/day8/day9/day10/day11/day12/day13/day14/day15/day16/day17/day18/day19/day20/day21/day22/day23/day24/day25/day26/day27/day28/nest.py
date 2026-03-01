@@ -1,15 +1,15 @@
 myfamily={
     "child1":{
         "name":"Emil",
-        "year":1990
+        "year":2005
     },
     "child2":{
         "name" : "Tobias",
-    "year" : 2007
+    "year" : 1990
   },
   "child3" : {
     "name" : "Linus",
-    "year" : 2011
+    "year" : 2001
   }
 }
 print(myfamily["child2"]["name"])
@@ -18,15 +18,15 @@ print(myfamily["child2"]["name"])
 myfamily = {
   "child1" : {
     "name" : "Emil",
-    "year" : 2004
+    "year" : 2007
   },
   "child2" : {
     "name" : "Tobias",
-    "year" : 2007
+    "year" : 2002
   },
   "child3" : {
     "name" : "Linus",
-    "year" : 2011
+    "year" : 2016
   }
 }
 for x, obj in myfamily.items():
