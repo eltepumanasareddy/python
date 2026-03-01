@@ -1,3 +1,3 @@
-thislist = ["banana", "Orange", "Kiwi", "cherry"]
+thislist = ["cherry","grapes","guva","mango"]
 thislist.sort(key = str.lower)
 print(thislist)
