@@ -14,3 +14,10 @@ if b>a:
     print("b is greater than a")
 else:
     print("b is not greater than a")
+
+#2
+number=6
+if number %2==0:
+    print("the number is even")
+else:
+    print("the number is odd")
