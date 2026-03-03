@@ -13,3 +13,11 @@ elif day==6:
     print("saturday")
 elif day==7:
     print("sunday")
+
+#1
+a=33
+b=20
+if b>a:
+    print("b is greater than a")
+elif b==a:
+    print("a and b are equal")
