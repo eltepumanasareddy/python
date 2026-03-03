@@ -32,3 +32,11 @@ elif temperature >10:
     print("its a hot")
 else:
     print("its a cool inside")
+
+#4
+username="Email"
+if len(username)>0:
+    print(f"welcome,{username}!")
+else:
+    print("Error:username cannot be empty")
+    
