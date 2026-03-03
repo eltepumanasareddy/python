@@ -21,3 +21,14 @@ if number%2==0:
     print("the number is even")
 else:
     print("the number is odd")
+
+#3
+temperature=30
+if temperature > 40:
+    print("its a cool")
+elif temperature >30:
+    print("its a warm")
+elif temperature >10:
+    print("its a hot")
+else:
+    print("its a cool inside")
