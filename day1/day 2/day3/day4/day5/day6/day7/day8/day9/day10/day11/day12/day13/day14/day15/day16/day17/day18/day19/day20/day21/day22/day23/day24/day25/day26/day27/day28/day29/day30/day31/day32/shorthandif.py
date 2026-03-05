@@ -20,3 +20,9 @@ b=60
 print("A") if a>b else print("=") if a==b else print("B")
 
 
+#4
+x=50
+y=40
+max_value = x if x > y else y
+print("Maximum value:",max_value)
+
