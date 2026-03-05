@@ -26,3 +26,14 @@ y=40
 max_value = x if x > y else y
 print("Maximum value:",max_value)
 
+#5
+a=40
+b=50
+c=500
+if a > c and b<a:
+    print("Both conditions are True")
+
+a=44
+b=50
+if not a>b:
+    print("a is Not greater than b")
