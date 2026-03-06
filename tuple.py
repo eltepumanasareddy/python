@@ -1,4 +1,4 @@
-x = ("apple", "banana", "cherry")
+x = ("mango", "guava", "grapes")
 
 #display x:
 print(x)
