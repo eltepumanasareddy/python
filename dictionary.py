@@ -3,3 +3,4 @@ x={"name" :"john","age" : 20}
 print(x)
 #display the data type of x:
 print(type(x))
+
