@@ -8,9 +8,9 @@ newlist=[x for x in fruits]
 print(newlist)
 
 #2
-newlist=[x for x in range(10)]
+newlist=[x for x in range(8)]
 print(newlist)
 
 #3
-newlist=[x for x in range(10)if x<5]
+newlist=[x for x in range(9)if x<8]
 print(newlist)
