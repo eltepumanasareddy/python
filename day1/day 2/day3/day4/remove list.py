@@ -15,9 +15,9 @@ list=["apple","banana","grapes"]
 list.pop()#delete last element
 print(list)
 #4
-thislist = ["apple", "banana", "cherry"]
-del thislist
-print(thislist)
+list = ["apple", "banana", "cherry"]
+del list
+print(list)
 #5
 list=["apple","banana","cherry"]
 list.clear()
