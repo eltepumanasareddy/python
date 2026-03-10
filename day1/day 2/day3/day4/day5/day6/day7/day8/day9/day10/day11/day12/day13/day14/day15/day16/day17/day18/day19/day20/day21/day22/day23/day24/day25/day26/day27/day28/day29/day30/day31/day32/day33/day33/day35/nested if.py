@@ -8,10 +8,10 @@ if x>10:
 
 
   #1
-  age = 25
-has_license = True
+ age = 25
+ has_license = True
 
-if age >= 18:
+if age>= 18:
   if has_license:
     print("You can drive")
   else:
@@ -19,3 +19,19 @@ if age >= 18:
 else:
   print("You are too young to drive")
 
+
+#2
+score = 65
+attendence = 90
+submitted=True
+
+if score >= 60:
+  if attendence >= 80:
+    if submitted:
+      print("pass with good standing")
+    else:
+      print("Pass but missing assignment")
+  else:
+    print("Pass but low attendance")
+else:
+  print("Fail")
