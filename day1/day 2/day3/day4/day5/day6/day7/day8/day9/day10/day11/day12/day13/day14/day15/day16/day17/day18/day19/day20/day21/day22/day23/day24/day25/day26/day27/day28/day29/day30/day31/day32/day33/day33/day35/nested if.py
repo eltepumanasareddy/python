@@ -66,5 +66,21 @@ if username:
        print("password required")
 else:
         print("Username required")
-        
+
+
+#6
+score=90
+extra_credit = 5
+if score >=85:
+  if extra_credit > 0:
+    print("A+ grade")
+  else:
+    print("A grade")
+elif score >=80:
+  print("B grade")
+else:
+  print("C grade or below")
+
+
+
 
