@@ -35,3 +35,11 @@ if score >= 60:
     print("Pass but low attendance")
 else:
   print("Fail")
+
+
+#3
+temperature = 25
+is_sunny = True
+if temperature > 20:
+  if is_sunny:
+    print("Perfect beach weather!")
