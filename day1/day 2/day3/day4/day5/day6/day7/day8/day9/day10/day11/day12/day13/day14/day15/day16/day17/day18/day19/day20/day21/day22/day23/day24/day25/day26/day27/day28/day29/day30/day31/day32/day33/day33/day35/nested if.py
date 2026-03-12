@@ -43,3 +43,9 @@ is_sunny = True
 if temperature > 20:
   if is_sunny:
     print("Perfect beach weather!")
+
+#4
+temperature = 30
+is_sunny = True
+if temperature > 25 and is_sunny:
+    print("perfect beach weather!")
