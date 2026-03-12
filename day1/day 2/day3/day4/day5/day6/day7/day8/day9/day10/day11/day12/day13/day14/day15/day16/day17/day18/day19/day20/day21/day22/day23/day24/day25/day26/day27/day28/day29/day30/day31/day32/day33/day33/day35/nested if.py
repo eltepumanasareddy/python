@@ -49,3 +49,22 @@ temperature = 30
 is_sunny = True
 if temperature > 25 and is_sunny:
     print("perfect beach weather!")
+
+
+#5
+username = "email"
+password = "python12"
+is_active = True
+
+if username:
+  if password:
+    if is_active:
+      print("Login successful")
+    else:
+      print("Account is not active")
+  else:
+       print("password required")
+else:
+        print("Username required")
+        
+
