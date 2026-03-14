@@ -1,16 +1,16 @@
 thisset = {"apple", "banana", "cherry"}
-thisset.add("orange")
+thisset.add("grapes")
 print(thisset)
 
 #1
 thisset = {"apple", "banana", "cherry"}
-tropical={"pineapple","mango","papaya"}
+tropical={"pineapple","apple","papaya"}
 thisset.update(tropical)
 print(thisset)
 
 #2
 thisset = {"apple", "banana", "cherry"}
-mylist = ["kiwi", "orange"]
+mylist = ["apple", "orange"]
 thisset.update(mylist)
 print(thisset)
 
