@@ -8,5 +8,5 @@ print("banana" in thisset)
     
 #2
 thisset={"apple","banana","cherry"}
-print("grapes" not in thisset)
+print("apple" in thisset)
     
