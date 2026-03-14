@@ -4,7 +4,7 @@ for x in thisset:
 
 
 #1
-set1 = {"a", "b", "c"}
+set1 = {"c", "d", "e"}
 set2 = {1, 2, 3}
 
 set3 = set1.union(set2)
