@@ -1,13 +1,13 @@
-thisset={"apple","banana","cherry"}
+thisset={"grapes","mango","banana"}
 x=thisset.pop()
 print(x)
 print(thisset)
 
 #1
-thisset={"apple","banana","cherry"}
+thisset={"grapes","mango","banana"}
 thisset.clear()
 print(thisset)
 
-thisset = {"apple", "banana", "cherry"}
+thisset = {"grapes","mango","banana"}
 thisset.discard("banana")
 print(thisset)
