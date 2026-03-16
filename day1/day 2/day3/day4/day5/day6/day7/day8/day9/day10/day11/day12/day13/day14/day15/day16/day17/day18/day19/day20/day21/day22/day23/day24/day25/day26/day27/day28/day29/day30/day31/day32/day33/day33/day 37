@@ -2,5 +2,11 @@ age = 16
 
 if age < 18:
    pass   #TODO: Add underage logic later
-else:
    print("Access granted")
+
+
+#1
+score=85
+if score > 90:
+   pass
+print("Score processed")
