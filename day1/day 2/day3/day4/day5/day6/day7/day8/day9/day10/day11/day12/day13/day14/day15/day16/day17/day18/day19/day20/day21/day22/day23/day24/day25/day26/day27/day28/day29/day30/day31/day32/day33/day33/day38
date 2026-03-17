@@ -1,0 +1,7 @@
+day = 5 
+match day:
+    case 1:
+       print("Monday")
+    case 2:
+       
+    
