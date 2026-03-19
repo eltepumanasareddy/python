@@ -34,3 +34,15 @@ match day:
     print("Today is a weekday")
   case 6 | 7:
     print("I love weekends!")
+
+
+#3
+day = 1
+match day:
+    case 2:
+       print("Today is monday")
+    case 3:
+        print("Today is tuesday")
+    case 4:
+        print("Looking forward to the weekend")
+
