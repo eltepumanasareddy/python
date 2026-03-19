@@ -84,8 +84,8 @@ else:
 
 
 #pass
-a=30
-b=40
+a=10
+b=20
 if a>b:
   pass
 
@@ -98,14 +98,14 @@ else:
   print("Access granted")
 
 
-score = 85
+score = 45
 
-if score > 90:
+if score > 80:
   pass # This is excellent
 print("Score processed")
 
 
-value = 50
+value = 40
 
 if value < 0:
   print("Negative value")
