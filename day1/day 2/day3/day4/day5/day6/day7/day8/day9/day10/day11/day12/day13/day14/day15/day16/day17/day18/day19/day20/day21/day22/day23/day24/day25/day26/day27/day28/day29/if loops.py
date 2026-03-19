@@ -40,12 +40,12 @@ elif score >=60:
     print("Grade: D")
 
 #6
-age = 25
-if age <13:
+age = 30
+if age <15:
     print("you are a child")
-elif age < 20:
+elif age < 22:
     print("you are a teenager")
-elif age <30:
+elif age <25:
     print("you are an adult")
-elif age >=75:
+elif age >=35:
     print("you are a senior")
