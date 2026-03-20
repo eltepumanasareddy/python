@@ -1,5 +1,5 @@
 #frozenset is a Once created, you cannot add or remove items.
-x=frozenset({"apple","banana","cherry"})
+x=frozenset({"grapes","banana","mango"})
 print(x)
 print(type(x))
 
@@ -9,9 +9,9 @@ cp=fs.copy()
 print(fs)
 print(cp)
 #2
-a=frozenset({1,2})
-b=frozenset({3,4})
-c=frozenset({2,5})
+a=frozenset({4,5})
+b=frozenset({2,4})
+c=frozenset({3,6})
 print(a.isdisjoint(b))
 print(a.isdisjoint(c))
 
