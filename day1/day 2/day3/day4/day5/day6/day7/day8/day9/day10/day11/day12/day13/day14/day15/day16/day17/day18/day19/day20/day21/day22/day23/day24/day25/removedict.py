@@ -1,7 +1,7 @@
 dict={
      "brand": "Ford",
      "model": "Mustang",
-     "year":2005
+     "year":2007
 }
 dict.pop("model")
 print(dict)
@@ -10,7 +10,7 @@ print(dict)
 dict={
     "brand": "Ford",
     "model":"mustrang",
-    "year":2005
+    "year":2007
 }
 dict.clear()
 print(dict)
@@ -18,7 +18,7 @@ print(dict)
 dict={
     "brand": "Ford",
     "model":"mustrang",
-    "year":2005
+    "year":2007
 }
 del dict["model"]
 print(dict)
@@ -26,7 +26,7 @@ print(dict)
 thisdict = {
   "brand": "Ford",
   "model": "Mustang",
-  "year": 1964
+  "year": 1975
 }
 thisdict.popitem()
 print(thisdict)
