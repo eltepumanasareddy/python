@@ -9,13 +9,13 @@ print(list)
 
 #2
 thislist = ["apple", "banana", "cherry"]
-thislist[1:3] = ["watermelon"]
+thislist[1:3] = ["pineapple"]
 print(thislist)
 #3
 thislist = ["apple", "banana", "cherry"]
-thislist.insert(2, "watermelon")
+thislist.insert(2, "pineapple")
 print(thislist)
 #4
 thislist=["apple", "banana", "cherry"]
-thislist.insert(3, "watermelon")
+thislist.insert(3, "pineapple")
 print(thislist)
