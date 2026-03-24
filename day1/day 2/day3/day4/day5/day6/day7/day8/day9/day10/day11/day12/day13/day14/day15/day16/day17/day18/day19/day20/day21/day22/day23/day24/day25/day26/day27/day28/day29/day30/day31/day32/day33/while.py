@@ -19,3 +19,11 @@ while i < 6:
   if i == 3:
     continue
   print(i)
+
+
+#3
+i=1
+while i < 6:
+  print(i)
+else:
+  print("i is no longer less than 6")
