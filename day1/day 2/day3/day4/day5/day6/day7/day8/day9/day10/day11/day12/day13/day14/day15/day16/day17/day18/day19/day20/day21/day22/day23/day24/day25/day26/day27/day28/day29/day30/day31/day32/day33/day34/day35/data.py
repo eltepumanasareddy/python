@@ -13,8 +13,8 @@ while i<6:
 
 #2
 i = 1
-while i < 6:
+while i < 5:
   print(i)
-  if i == 3:
+  if i == 2:
     break
   i += 1
