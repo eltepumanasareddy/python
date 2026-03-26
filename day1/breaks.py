@@ -21,3 +21,6 @@ for x in fruits:
 
 for x in range(5):
     print(x)
+
+for x in range(2,7):
+    print(x)
