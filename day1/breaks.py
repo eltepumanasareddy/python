@@ -29,3 +29,9 @@ for x in range(2,7):
 #range
 for x in range(4,40,5):
     print(x)
+
+
+for x in range(5):
+    print(x)
+else:
+    print("Finally finished!")
