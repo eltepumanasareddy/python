@@ -42,3 +42,10 @@ for x in range(5):
     print(x)
 else:
     print("Finally finished!")
+
+
+adj=["red","green","blue"]
+fruits=["apple","banana","cherry"]
+for x in adj:
+    for y in fruits:
+        print(x,y)
