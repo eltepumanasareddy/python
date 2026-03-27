@@ -24,3 +24,8 @@ for x in range(5):
 
 for x in range(2,7):
     print(x)
+
+
+#range
+for x in range(4,40,5):
+    print(x)
