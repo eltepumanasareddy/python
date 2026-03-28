@@ -22,23 +22,23 @@ for x in fruits:
 for x in range(5):
     print(x)
 
-for x in range(2,7):
+for x in range(2,6):
     print(x)
 
 
 #range
-for x in range(4,40,5):
+for x in range(3,30,5):
     print(x)
 
 
-for x in range(5):
+for x in range(6):
     print(x)
 else:
     print("Finally finished!")
 
 
-for x in range(5):
-    if x==3: break
+for x in range(6):
+    if x==4: break
     print(x)
 else:
     print("Finally finished!")
