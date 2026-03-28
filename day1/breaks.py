@@ -7,14 +7,14 @@ for x in fruits:
 
 fruits= ["apple","banana","grapes"]
 for x in fruits:
-    if x == "banana":
+    if x == "grapes":
         break
     print(x)
 
 
 fruits = ["apple","banana","cherry"]
 for x in fruits:
-    if x=="banana":
+    if x=="cherry":
         continue
     print(x)
 
