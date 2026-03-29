@@ -53,3 +53,10 @@ for x in adj:
  
 for x in[0,1,2]:
     pass
+
+
+
+#function
+def my_function():
+    print("Hello from a function")
+my_function()
