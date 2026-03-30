@@ -99,3 +99,12 @@ def get_greeting():
 message = get_greeting()
 print(message)
 
+
+#5
+def get_greeting():
+  return "Hello from a function"
+
+print(get_greeting())
+
+
+
