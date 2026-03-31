@@ -1,6 +1,6 @@
-x = 3+5j
-y = 5j
-z = -5j
+x = 1+5j
+y = 8j
+z = -8j
 
 print(type(x))
 print(type(y))
