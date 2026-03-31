@@ -1,4 +1,4 @@
 print("hello world")
-print(7+8)
-print(5-10)
+print(6-3)
+print(3+7)
       
