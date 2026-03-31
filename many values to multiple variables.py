@@ -1,4 +1,4 @@
-x,y,z="banana","mango","guava"
+x,y,z="mango","berry","cherry"
 print(x)
 print(y)
 print(z)
