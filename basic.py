@@ -1,6 +1,6 @@
 print("hello world")
-print(6*3)
-print(5+1)
+print(6*5)
+print(5+7)
       
 
 def my_function(fname):
