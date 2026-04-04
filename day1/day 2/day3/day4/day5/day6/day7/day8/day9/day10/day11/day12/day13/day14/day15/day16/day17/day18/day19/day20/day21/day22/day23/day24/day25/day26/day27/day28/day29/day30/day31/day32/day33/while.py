@@ -26,4 +26,4 @@ i=1
 while i < 5:
   print(i)
 else:
-  print("i is no longer less than 6")
+  print("i is no longer less than 8")
