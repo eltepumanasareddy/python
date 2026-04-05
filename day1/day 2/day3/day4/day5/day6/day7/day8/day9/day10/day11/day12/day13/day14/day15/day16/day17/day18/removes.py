@@ -9,5 +9,5 @@ thisset.clear()
 print(thisset)
 
 thisset = {"grapes","mango","banana"}
-thisset.discard("banana")
+thisset.discard("mango")
 print(thisset)
