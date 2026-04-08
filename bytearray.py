@@ -1,4 +1,4 @@
-x = bytearray(5)
+x = bytearray(9)
 
 #display x:
 print(x)
@@ -10,10 +10,10 @@ print(type(x))
 #byte
 x=b"hello"
 print(x)
-print(tyoe(x))
+print(type(x))
 
 #memory view
-x = memoryview(bytes(5))
+x = memoryview(bytes(9))
 
 #display x:
 print(x)
