@@ -1,7 +1,7 @@
 a="manasa"
-A="reddy"
+b="vinay"
 print(a)
-print(A)
+print(b)
 
 b="data"
 B="doctor"
