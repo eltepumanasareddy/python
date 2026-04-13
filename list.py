@@ -1,3 +1,3 @@
-x = ["banana","apple","guava"]
+x = ["mango","apple","guava"]
 print(x)
 print(type(x))
