@@ -45,14 +45,14 @@ print(Myfunction())
 def myFunction() :
   return True
 
- if myFunction():
+if myFunction():
   print("YES!")
- else:
+else:
   print("NO!")
 
   
   #isinstance(.)
- x = 200
+x = 200
 print=(isinstance(x,int)) #(object,type)
 
  #Check if "Hello" is one of the types described in the type parameter:
