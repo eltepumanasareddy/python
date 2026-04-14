@@ -1,4 +1,4 @@
-thislist=["cherry","guava","mango"]
+thislist=["banana","guava","mango"]
 i = 0
 while i < len(thislist):
  print(thislist[i])
