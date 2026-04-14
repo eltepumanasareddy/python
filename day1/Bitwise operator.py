@@ -28,4 +28,4 @@ print(~4)
 print(3<<4)
 
 #Signed right shift
-print(8>>2)
+print(5>>3)
