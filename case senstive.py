@@ -1,4 +1,4 @@
-a="manasa"
+a="reddy"
 b="vinay"
 print(a)
 print(b)
