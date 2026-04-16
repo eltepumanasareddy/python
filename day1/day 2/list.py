@@ -33,14 +33,14 @@ print(thislist[-1])#[2]
 thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 print(thislist[2:5])
 #This example returns the items from the beginning to, but NOT including, "kiwi":
-thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+thislist = ["apple", "banana", "cherry", "kiwi", "melon", "mango"]
 print(thislist[:4])
 
 #his example returns the items from "cherry" to the end
-thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+thislist = ["apple", "banana", "cherry", "kiwi", "melon", "mango"]
 print(thislist[2:])
 
-thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+thislist = ["apple", "banana", "cherry", "kiwi", "melon", "mango"]
 print(thislist[-4:-1])#Negative indexing means starting from the end of the list.
 
 #Check if "apple" is present in the list
