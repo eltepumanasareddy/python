@@ -1,13 +1,13 @@
 fruits = ["apple","banana","grapes"]
 for x in fruits:
     print(x)
-    if x == "banana":
+    if x == "g":
        break
 
 
 fruits= ["apple","banana","grapes"]
 for x in fruits:
-    if x == "grapes":
+    if x == "apple":
         break
     print(x)
 
