@@ -3,15 +3,15 @@ print(fruits)
 
 #1
 fruits = ("apple", "banana", "cherry")
-(green, yellow, red) = fruits
-print(green)
+(blue, yellow, red) = fruits
+print(blue)
 print(yellow)
 print(red)
 
 #2
 fruits = ("apple", "banana", "cherry", "strawberry", "raspberry")
-(green, yellow, *red) = fruits
-print(green)
+(blue, yellow, *red) = fruits
+print(blue)
 print(yellow)
 print(red)
 
