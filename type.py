@@ -1,4 +1,4 @@
-a=15
-b="manasa"
+a=20
+b="manasa reddy"
 print(type(a))
 print(type(b))
