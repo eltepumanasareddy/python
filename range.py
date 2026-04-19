@@ -1,4 +1,4 @@
-x = range(10)
+x = range(5)
 
 #display x:
 print(x)
