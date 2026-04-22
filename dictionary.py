@@ -1,4 +1,4 @@
-x={"name" :"john","age" : 20}
+x={"name" :"manasa" ,"age" : 40}
 #display the x:
 print(x)
 #display the data type of x:
