@@ -17,5 +17,5 @@ thislist.insert(2, "pineapple")
 print(thislist)
 #4
 thislist=["apple", "banana", "cherry"]
-thislist.insert(6, "pineapple")
+thislist.insert(6, "grapes")
 print(thislist)
