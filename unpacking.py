@@ -1,2 +1,2 @@
-x='mzmcx'
+x="reddy"
 print(x)
