@@ -9,7 +9,7 @@ print(list)
 
 #2
 thislist = ["apple", "banana", "cherry"]
-thislist[1:3] = ["pineapple"]
+thislist[1:3] = ["grapes"]
 print(thislist)
 #3
 thislist = ["apple", "banana", "cherry"]
