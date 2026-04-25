@@ -1,2 +1,2 @@
-x="reddy"
+x="manasa"
 print(x)
