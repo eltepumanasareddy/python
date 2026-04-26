@@ -13,6 +13,6 @@ list.sort(reverse = True)
 print(list)
 
 #3
-thislist = [100, 50, 82, 23]
+thislist = [20,30,45,32,46]
 thislist.sort(reverse=True)
 print(thislist)
