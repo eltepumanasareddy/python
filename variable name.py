@@ -1,9 +1,9 @@
-myvar="reddy"
-my_var="reddy"
-_my_var="reddy"
-MYVAR="reddy"
-my_Var="reddy"
-myvar2="reddy"
+myvar="manasa reddy"
+my_var="manasa reddy"
+_my_var="manasa reddy"
+MYVAR="manasa reddy"
+my_Var="manasa reddy"
+myvar2="manasa reddy"
 print(myvar)
 print(my_var)
 print(_my_var)
