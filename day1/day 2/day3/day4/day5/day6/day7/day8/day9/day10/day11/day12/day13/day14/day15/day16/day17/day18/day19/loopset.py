@@ -4,8 +4,8 @@ for x in thisset:
 
 
 #1
-set1 = {"c", "d", "e"}
-set2 = {1, 2, 3}
+set1 = {"e", "f", "g"}
+set2 = {5, 6, 7}
 
 set3 = set1.union(set2)
 print(set3)
