@@ -14,6 +14,7 @@ def myfunc():
 
 myfunc()
 
+#2 
 x = 300
 
 def myfunc():
@@ -22,3 +23,14 @@ def myfunc():
 myfunc()
 
 print(x)
+
+#3
+def myfunc1():
+  x = "Jane"
+  def myfunc2():
+    nonlocal x
+    x = "hello"
+  myfunc2()
+  return x
+
+print(myfunc1())
