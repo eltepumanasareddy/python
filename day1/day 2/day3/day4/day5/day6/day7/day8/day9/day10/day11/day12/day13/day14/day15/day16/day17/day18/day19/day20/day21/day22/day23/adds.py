@@ -27,7 +27,7 @@ print(x)
 thisdict = {
   "brand": "Ford",
   "model": "Mustang",
-  "year": 1964
+  "year": 1954
 }
 x = thisdict.keys()
 print(x)
@@ -36,7 +36,7 @@ print(x)
 car = {
 "brand": "Ford",
 "model": "Mustang",
-"year": 1964
+"year": 1954
 }
 x = car.keys()
 print(x) #before the change
