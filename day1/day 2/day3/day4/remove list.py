@@ -1,5 +1,5 @@
 list=["apple","banana","cherry"]
-list.remove("banana")
+list.remove("cherry")
 print(list)
 
 #1
