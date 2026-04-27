@@ -13,4 +13,4 @@ x = 6
 print(x < 6 or x > 15)
 #Reverse the result with not:
 x=3
-print(not(5>6 and 5<10))
+print(not(5>6 and 5<9))
