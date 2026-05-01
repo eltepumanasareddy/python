@@ -1,4 +1,4 @@
-x = ("mango", "dog", "cat")
+x = ("mango", "apple", "ice apple")
 
 #display x:
 print(x)
