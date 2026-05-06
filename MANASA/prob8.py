@@ -1,4 +1,4 @@
-x = lambda a : a + 9
+x = lambda a : a + 8
 print(x(5))
 
 #1
@@ -7,4 +7,4 @@ print(x(6, 7))
 
 #2
 x = lambda a, b, c : a + b + c
-print(x(4, 8, 2))
+print(x(4, 8, 9))
