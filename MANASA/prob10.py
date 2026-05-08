@@ -1,9 +1,9 @@
-x = lambda a: a + 50
-print(x(2))
+x = lambda a: a + 60
+print(x(10))
 
 #1
 x = lambda a, b : a * b
-print(x(4, 9))
+print(x(2, 8))
 
 
 #2
