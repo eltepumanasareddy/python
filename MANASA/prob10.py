@@ -8,7 +8,7 @@ print(x(2, 8))
 
 #2
 x = lambda a, b, c: a + b + c
-print(x(10, 11, 12))
+print(x(9, 12, 14))
 
 
 
