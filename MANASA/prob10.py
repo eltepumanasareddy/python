@@ -1,4 +1,4 @@
-x = lambda a: a + 60
+x = lambda a: a + 100
 print(x(10))
 
 #1
