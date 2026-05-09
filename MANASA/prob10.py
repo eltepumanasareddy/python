@@ -3,7 +3,7 @@ print(x(10))
 
 #1
 x = lambda a, b : a * b
-print(x(2, 8))
+print(x(2, 9))
 
 
 #2
