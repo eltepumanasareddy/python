@@ -18,3 +18,9 @@ print(odd_numbers)
 x = lambda a, b: a * b
 print(x(5, 6))
 
+#4
+words = ["apple", "pie", "banana", "cherry"]
+sorted_words = sorted(words, key=lambda x: len(x))
+print(sorted_words)
+
+
