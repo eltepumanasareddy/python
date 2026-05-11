@@ -14,9 +14,9 @@ print(x(8, 10, 16))
 def myfunc(n):
   return lambda a : a * n
 
-mydoubler = myfunc(2)
+mydoubler = myfunc(8)
 
-print(mydoubler(11))
+print(mydoubler(9))
 
 
 #4
