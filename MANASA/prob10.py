@@ -23,9 +23,9 @@ print(mydoubler(11))
 def myfunc(n):
   return lambda a : a * n
 
-mytripler = myfunc(3)
+mytripler = myfunc(6)
 
-print(mytripler(11))
+print(mytripler(10))
 
 
 
