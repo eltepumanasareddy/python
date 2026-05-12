@@ -10,3 +10,13 @@ x = range(3, 10)
 print(x)
 #convert to list to display the content of x:
 print(list(x))
+
+#2
+def countdown(n):
+  if n <= 0:
+    print("Done!")
+  else:
+    print(n)
+    countdown(n - 1)
+
+countdown(5)
