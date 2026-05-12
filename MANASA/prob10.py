@@ -8,7 +8,7 @@ print(x(2, 6))
 
 #2
 x = lambda a, b, c: a + b + c
-print(x(8, 12, 16))
+print(x(10, 12, 16))
 
 #3
 def myfunc(n):
