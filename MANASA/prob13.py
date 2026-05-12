@@ -5,7 +5,7 @@ def countdown(n):
     print(n)
     countdown(n - 1)
 
-countdown(5)
+countdown(6)
 
 #1
 def factorial(n):
@@ -16,4 +16,4 @@ def factorial(n):
   else:
     return n * factorial(n - 1)
 
-print(factorial(5))
+print(factorial(6))
