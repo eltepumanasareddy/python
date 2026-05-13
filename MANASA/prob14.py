@@ -15,3 +15,14 @@ def count_up_to(n):
 
 for num in count_up_to(5):
   print(num)
+
+#3
+def simple_gen():
+  yield "Emil"
+  yield "Tobias"
+  yield "Linus"
+
+gen = simple_gen()
+print(next(gen))
+print(next(gen))
+print(next(gen))
