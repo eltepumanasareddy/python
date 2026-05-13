@@ -13,7 +13,7 @@ print(list(x))
 
 #2
 def countdown(n):
-  if n <= 0:
+  if n <= 5:
     print("Done!")
   else:
     print(n)
