@@ -3,3 +3,22 @@ def myfunc():
   print(x)
 
 myfunc()
+
+#1
+def myfunc():
+  x = 300
+  def myinnerfunc():
+    print(x)
+  myinnerfunc()
+
+myfunc()
+
+#2
+x = 300
+
+def myfunc():
+  print(x)
+
+myfunc()
+
+print(x)
