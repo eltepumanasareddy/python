@@ -13,7 +13,7 @@ def count_up_to(n):
     yield count
     count += 1
 
-for num in count_up_to(5):
+for num in count_up_to(6):
   print(num)
 
 #3
