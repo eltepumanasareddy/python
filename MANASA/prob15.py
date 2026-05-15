@@ -1,12 +1,12 @@
 def myfunc():
-  x = 300
+  x = 100
   print(x)
 
 myfunc()
 
 #1
 def myfunc():
-  x = 300
+  x = 100
   def myinnerfunc():
     print(x)
   myinnerfunc()
@@ -50,6 +50,6 @@ print("Global:", x)
 
 #1
 def my_function(*kids):
-  print("The youngest child is " + kids[1])
+  print("The youngest child is " + kids[2])
 
 my_function("Emil", "Tobias", "Linus")
