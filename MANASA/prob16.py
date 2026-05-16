@@ -25,3 +25,15 @@ def otherfunction():
 
 print(myfunction())
 print(otherfunction())
+
+#2
+def changecase(func):
+  def myinner(x):
+    return func(x).upper()
+  return myinner
+
+@changecase
+def myfunction(nam):
+  return "Hello " + nam
+
+print(myfunction("John"))
