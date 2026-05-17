@@ -25,10 +25,10 @@ print(x)
 
 #3
 def myfunc1():
-  x = "Jane"
+  x = "john"
   def myfunc2():
     nonlocal x
-    x = "hello"
+    x = "boss"
   myfunc2()
   return x
 
