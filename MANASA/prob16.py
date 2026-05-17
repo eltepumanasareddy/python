@@ -34,6 +34,6 @@ def changecase(func):
 
 @changecase
 def myfunction(nam):
-  return "Hello " + nam
+  return "manasa " + nam
 
-print(myfunction("John"))
+print(myfunction("reddy"))
