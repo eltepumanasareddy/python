@@ -14,7 +14,7 @@ def myfunc():
 myfunc()
 
 #2
-x = 300
+x = 500
 
 def myfunc():
   print(x)
