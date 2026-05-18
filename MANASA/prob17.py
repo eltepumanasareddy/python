@@ -7,3 +7,13 @@ def find_max(numbers):
 
 my_list = [3, 7, 2, 9, 1]
 print(find_max(my_list))
+
+#1
+def sum_list(numbers):
+  if len(numbers) == 0:
+    return 0
+  else:
+    return numbers[0] + sum_list(numbers[1:])
+
+my_list = [1, 2, 3, 4, 5]
+print(sum_list(my_list))
