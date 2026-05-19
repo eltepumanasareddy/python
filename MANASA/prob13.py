@@ -3,7 +3,7 @@ def countdown(n):
     print("Done!")
   else:
     print(n)
-    countdown(n - 1)
+    countdown(n - 2)
 
 countdown(6)
 
