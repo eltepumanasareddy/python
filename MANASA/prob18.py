@@ -7,3 +7,8 @@ print(7 in r)
 r = range(0, 10, 2)
 print(list(r))
 print(len(r))
+
+#2
+r = range(10)
+print(r[2])
+print(r[:3])
