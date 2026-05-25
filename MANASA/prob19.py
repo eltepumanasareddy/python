@@ -6,3 +6,8 @@ print(list(range(5, 20, 6)))
 r = range(10)
 print(r[2])
 print(r[:3])
+
+#2
+cars = ["Ford", "Volvo", "BMW"]
+print(cars)
+
