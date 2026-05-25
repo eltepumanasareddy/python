@@ -11,3 +11,11 @@ print(r[:3])
 cars = ["Ford", "Volvo", "BMW"]
 print(cars)
 
+#3
+cars = ["Ford", "Volvo", "BMW"]
+
+x = cars[0]
+
+print(x)
+
+
