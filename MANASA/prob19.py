@@ -14,7 +14,7 @@ print(cars)
 #3
 cars = ["Ford", "Volvo", "BMW"]
 
-x = cars[0]
+x = cars[1]
 
 print(x)
 
