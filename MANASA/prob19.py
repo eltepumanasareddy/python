@@ -13,9 +13,15 @@ print(cars)
 
 #3
 cars = ["Ford", "Volvo", "BMW"]
-
 x = cars[1]
+print(x)
+
+#4
+cars = ["Ford", "Volvo", "BMW"]
+
+x = len(cars)
 
 print(x)
+
 
 
