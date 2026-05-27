@@ -31,5 +31,10 @@ cars = ["roll", "bullet", "honda"]
 for x in cars:
   print(x)
 
+#7
+cars = ["wwu", "hero", "tata"]
+x = cars[2]
+print(x)
+
 
 
