@@ -26,6 +26,10 @@ cars = ["Ford", "Volvo", "BMW"]
 for x in cars:
   print(x)
 
+#6
+cars = ["roll", "bullet", "honda"]
+for x in cars:
+  print(x)
 
 
 
