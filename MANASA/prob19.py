@@ -7,7 +7,7 @@ r = range(10)
 print(r[2])
 print(r[:3])
 
-#2
+#2 arrays
 cars = ["Ford", "Volvo", "BMW"]
 print(cars)
 
@@ -18,10 +18,14 @@ print(x)
 
 #4
 cars = ["Ford", "Volvo", "BMW"]
-
 x = len(cars)
-
 print(x)
+
+#5
+cars = ["Ford", "Volvo", "BMW"]
+for x in cars:
+  print(x)
+
 
 
 
