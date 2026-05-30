@@ -12,4 +12,9 @@ cars=["ford", "volvo", "BMW"]
 cars.remove("volvo")
 print(cars)
 
+#3
+cars = ["Ford", "Volvo", "BMW","honda"]
+for x in cars:
+  print(x)
+
 
