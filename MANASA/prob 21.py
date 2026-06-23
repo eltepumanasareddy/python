@@ -20,3 +20,11 @@ my_function("Linus")
 def my_function(fname, lname):
     print(fname + " " + lname)
 my_function("Emil", "Reference")
+
+#5
+def my_function(name= "friend"):
+    print("Hello", name)
+my_function("Emil")
+my_function("Tobias")
+my_function()
+my_function("Linus")
