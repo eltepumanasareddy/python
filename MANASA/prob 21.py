@@ -8,3 +8,10 @@ else:
 def my_function():
     print("hello the my function")
 my_function()
+
+#3 Arguments
+def my_function(fname):
+    print(fname + " References")
+my_function("Email")
+my_function("Tobias")
+my_function("Linus")
