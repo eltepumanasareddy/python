@@ -15,3 +15,8 @@ def my_function(fname):
 my_function("Email")
 my_function("Tobias")
 my_function("Linus")
+
+#4
+def my_function(fname, lname):
+    print(fname + " " + lname)
+my_function("Emil", "Reference")
