@@ -45,3 +45,10 @@ my_function("dog", "buddy")
 def my_function(animal,name,age):
     print("I have a", age,"year old", animal,"named", name)
 my_function("dog", name = "buddy", age=5)
+
+#9
+def my_function(fruits):
+    for fruits in fruits:
+     print(fruits)
+my_fruits = ["apple","banana","cherry"]
+my_function(my_fruits)
