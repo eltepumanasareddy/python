@@ -28,3 +28,9 @@ my_function("Emil")
 my_function("Tobias")
 my_function()
 my_function("Linus")
+
+#6
+def my_function(animal,name):
+    print("I have a", animal)
+    print("My",animal + "s name is",name)
+my_function(animal="dog",name = "Buddy")
