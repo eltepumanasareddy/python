@@ -40,3 +40,8 @@ def my_function(animal,name):
     print("I have a", animal)
     print("My", animal + "'s name is", name)
 my_function("dog", "buddy")
+
+#8
+def my_function(animal,name,age):
+    print("I have a", age,"year old", animal,"named", name)
+my_function("dog", name = "buddy", age=5)
