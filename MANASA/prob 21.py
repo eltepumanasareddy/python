@@ -32,5 +32,11 @@ my_function("Linus")
 #6
 def my_function(animal,name):
     print("I have a", animal)
-    print("My",animal + "s name is",name)
+    print("My",animal + "'s name is",name)
 my_function(animal="dog",name = "Buddy")
+
+#7
+def my_function(animal,name):
+    print("I have a", animal)
+    print("My", animal + "'s name is", name)
+my_function("dog", "buddy")
