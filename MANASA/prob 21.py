@@ -66,3 +66,10 @@ fruits = my_function()
 print(fruits[0])
 print(fruits[1])
 print(fruits[2])
+
+#12
+def my_function():
+  return (10, 20)
+x, y = my_function()
+print("x:", x)
+print("y:", y)
