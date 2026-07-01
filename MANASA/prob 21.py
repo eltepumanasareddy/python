@@ -52,3 +52,9 @@ def my_function(fruits):
      print(fruits)
 my_fruits = ["apple","banana","cherry"]
 my_function(my_fruits)
+
+#10
+def my_function(x,y):
+    return x + y
+result = my_function(5,3)
+print(result)
