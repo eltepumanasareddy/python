@@ -73,3 +73,10 @@ def my_function():
 x, y = my_function()
 print("x:", x)
 print("y:", y)
+
+#13
+def my_function(name):
+  print("Hello", name)
+
+my_function("Emil")
+
