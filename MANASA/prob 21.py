@@ -56,7 +56,7 @@ my_function(my_fruits)
 #10
 def my_function(x,y):
     return x + y
-result = my_function(5,3)
+result = my_function(5,6)
 print(result)
 
 #11
