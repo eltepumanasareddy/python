@@ -36,3 +36,10 @@ def my_function(*args):
 
 my_function("Emil", "Tobias", "Linus")
 
+#4
+def my_function(greeting, *names):
+  for name in names:
+    print(greeting, name)
+
+my_function("Hello", "Emil", "Tobias", "Linus")
+
