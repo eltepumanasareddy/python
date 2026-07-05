@@ -20,3 +20,10 @@ def my_function(greeting, *names):
     print(greeting, name)
 
 my_function("Hello", "Emil", "Tobias", "Linus")
+
+#2
+def my_function(*kids):
+  print("The youngest child is " + kids[2])
+
+my_function("Emil", "Tobias", "Linus")
+
