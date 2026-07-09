@@ -47,3 +47,11 @@ def my_function(*numbers):
   return max_num
 
 print(my_function(3, 7, 2, 9, 1))
+
+#7
+def my_function(title, *args, **kwargs):
+  print("Title:", title)
+  print("Positional arguments:", args)
+  print("Keyword arguments:", kwargs)
+
+my_function("User Info", "Emil", "Tobias", age = 25, city = "Oslo")
