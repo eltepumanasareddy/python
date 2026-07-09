@@ -55,3 +55,11 @@ def my_function(title, *args, **kwargs):
   print("Keyword arguments:", kwargs)
 
 my_function("User Info", "Emil", "Tobias", age = 25, city = "Oslo")
+
+#8
+def my_function(a, b, c):
+  return a + b + c
+
+numbers = [1, 2, 3]
+result = my_function(*numbers) # Same as: my_function(1, 2, 3)
+print(result)
