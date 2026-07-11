@@ -79,3 +79,11 @@ def my_function(username, **details):
     print("  ", key + ":", value)
 
 my_function("emil123", age = 25, city = "Oslo", hobby = "coding")
+
+
+#11
+def myfunc():
+  x = 300
+  print(x)
+
+myfunc()
