@@ -87,3 +87,12 @@ def myfunc():
   print(x)
 
 myfunc()
+
+#12
+def myfunc():
+  x = 300
+  def myinnerfunc():
+    print(x)
+  myinnerfunc()
+
+myfunc()
