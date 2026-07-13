@@ -21,3 +21,15 @@ def my_function(animal, name):
   print("My", animal + "'s name is", name)
 
 my_function(animal = "frog", name = "reddy")
+
+#3
+def myfunc1():
+  x = "Jane"
+  def myfunc2():
+    nonlocal x
+    x = "hello"
+  myfunc2()
+  return x
+
+print(myfunc1())
+
