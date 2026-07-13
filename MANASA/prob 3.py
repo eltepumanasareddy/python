@@ -33,3 +33,17 @@ def myfunc1():
 
 print(myfunc1())
 
+#4
+x = "global"
+
+def outer():
+  x = "enclosing"
+  def inner():
+    x = "local"
+    print("Inner:", x)
+  inner()
+  print("Outer:", x)
+
+outer()
+print("Global:", x)
+
