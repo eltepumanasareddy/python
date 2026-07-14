@@ -47,3 +47,13 @@ def outer():
 outer()
 print("Global:", x)
 
+#5
+def countdown(n):
+  if n <= 0:
+    print("Done!")
+  else:
+    print(n)
+    countdown(n - 1)
+
+countdown(4)
+
