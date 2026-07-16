@@ -30,3 +30,8 @@ print(myfunction("John"))
 #3
 x = lambda a: a + 11
 print(x(4))
+
+#4
+x = lambda a, b: a * b
+print(x(5, 7))
+
