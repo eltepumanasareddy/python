@@ -26,3 +26,7 @@ def myfunction(nam):
   return "Hello " + nam
 
 print(myfunction("John"))
+
+#3
+x = lambda a: a + 11
+print(x(4))
