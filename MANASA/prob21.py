@@ -54,6 +54,14 @@ print(mytripler(11))
 thisset={"apple","babbaya","cherry"}
 print(thisset)
 print(type(thisset))
+#9
+def myfunc(n):
+  return lambda a : a * n
+mydoubler = myfunc(2)
+mytripler = myfunc(3)
+print(mydoubler(11))
+print(mytripler(11))
+
 
 
 
