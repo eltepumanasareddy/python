@@ -50,6 +50,10 @@ def myfunc(n):
 mytripler = myfunc(3)
 
 print(mytripler(11))
+#8
+thisset={"apple","babbaya","cherry"}
+print(thisset)
+print(type(thisset))
 
 
 
