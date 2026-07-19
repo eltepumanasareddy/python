@@ -65,6 +65,16 @@ print(mytripler(11))
 numbers = [1, 2, 3, 4, 5]
 doubled = list(map(lambda x: x * 2, numbers))
 print(doubled)
+#11
+def countdown(n):
+  if n <= 0:
+    print("Done!")
+  else:
+    print(n)
+    countdown(n - 1)
+
+countdown(5)
+
 
 
 
