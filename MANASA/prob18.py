@@ -8,7 +8,7 @@ r = range(0, 10, 3)
 print(list(r))
 print(len(r))
 
-#2
+#23
 r = range(8)
 print(r[2])
 print(r[:3])
