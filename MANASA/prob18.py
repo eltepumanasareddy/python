@@ -12,3 +12,8 @@ print(len(r))
 r = range(8)
 print(r[2])
 print(r[:3])
+
+#25
+print(list(range(5)))
+print(list(range(1, 6)))
+print(list(range(5, 20, 3)))
