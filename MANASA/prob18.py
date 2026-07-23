@@ -1,4 +1,4 @@
-r = range(1, 10, 3)
+r = range(1, 6, 9)
 print(list(r))
 print(6 in r)
 print(7 in r)
